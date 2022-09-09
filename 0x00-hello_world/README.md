@@ -13,3 +13,5 @@
 * 1-compiler - compile c file but do not link
 
 * 0-preprocessor - stop at the processor stage don't compile
+
+* 2-assembler - generate assembly code of a C code and save it o/p.
