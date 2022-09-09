@@ -9,3 +9,7 @@
 ## Tasks
 
 * 6-size.c - display various sizes
+
+* 1-compiler - compile c file but do not link
+
+* 0-preprocessor - stop at the processor stage don't compile
